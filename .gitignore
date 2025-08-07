@@ -1,0 +1,13 @@
+
+urdu_ocr_env/
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.cursor/
+
+*.log
+.env
